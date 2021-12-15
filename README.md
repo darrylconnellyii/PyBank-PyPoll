@@ -32,6 +32,8 @@ I will create a Python script that analyzes the votes and calculates each of the
 
 In addition, my final script will print the analysis to the terminal and export a text file with the results.
 
+  - - -
+
 ### Correctly read in csv
 
 ### Results Printed out correctly to terminal
