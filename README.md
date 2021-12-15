@@ -40,11 +40,15 @@ In addition, my final script will print the analysis to the terminal and export 
 [Election Data](PyPoll/Resources/election_data.csv)<br>
   ![Read PyPoll CSV](Images/pypoll_read_csv.png)
 
+  - - -
+
 ### Results Printed out correctly to terminal
 #### PyBank
   ![PyBank Print](Images/pybank_print_statements.png)
 #### PyPoll
   ![PyPoll Print](Images/pypoll_print_statements.png)
+
+  - - -
 
 ### Code Runs Error Free
 [PyBank Code](PyBank/pybank.py)<br>
@@ -52,13 +56,13 @@ In addition, my final script will print the analysis to the terminal and export 
 [PyPoll Code](PyPoll/pypoll.py)<br>
   ![PyPoll Script](Images/pypoll_script.png)
 
+  - - -
+
 ### Exports results to text file
 [PyBank analysis.txt](PyBank/analysis/analysis.txt)<br>
   ![PyBank Export Text](Images/pybank_export_text.png)<br><br>
 [PyPoll analysis.txt](PyPoll/analysis/analysis.txt)<br>
   ![PyPoll Export Text](Images/pypoll_export_text.png)
-
-
 
   - - -
 
