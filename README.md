@@ -4,7 +4,7 @@
 
   ![Revenue](Images/revenue-per-lead.png)
 
-I wanted to create a Python script for analyzing the financial records of a company by using this set of [financial data](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
+I wanted to create a Python script for analyzing the financial records of a company by using this set of [budget data](PyBank/Resources/budget_data.csv). The dataset is composed of two columns: `Date` and `Profit/Losses`.
 
 I will create a Python script that analyzes the records to calculate each of the following:
   * The total number of months included in the dataset
@@ -21,7 +21,7 @@ In addition, my final script will print the analysis to the terminal and export 
 
   ![Vote Counting](Images/Vote_counting.png)
 
-I wanted to help a small, rural town modernize its vote counting process using this set of [poll data](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
+I wanted to help a small, rural town modernize its vote counting process using this set of [election data](PyPoll/Resources/election_data.csv). The dataset is composed of three columns: `Voter ID`, `County`, and `Candidate`. 
 
 I will create a Python script that analyzes the votes and calculates each of the following:
   * The total number of votes cast
@@ -35,11 +35,15 @@ In addition, my final script will print the analysis to the terminal and export 
   - - -
 
 ### Correctly read in csv
-  ![Read PyBank CSV](Images/pybank_read_csv.png)
+[Budget Data](PyBank/Resources/budget_data.csv)
+  ![Read PyBank CSV](Images/pybank_read_csv.png)<br>
+[Election Data](PyPoll/Resources/election_data.csv)
   ![Read PyPoll CSV](Images/pypoll_read_csv.png)
 
 ### Results Printed out correctly to terminal
+#### PyBank
   ![PyBank Print](Images/pybank_print_statements.png)
+#### PyPoll
   ![PyPoll Print](Images/pypoll_print_statements.png)
 
 ### Code Runs Error Free
