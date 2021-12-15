@@ -47,9 +47,9 @@ In addition, my final script will print the analysis to the terminal and export 
   ![PyPoll Script](Images/pypoll_script.png)
 
 ### Exports results to text file
-  ![PyBank Export Text](Images/pybank_export_text.png)
+  ![PyBank Export Text](Images/pybank_export_text.png)<br>
 [PyBank analysis.txt](PyBank/analysis/analysis.text)
-  ![PyPoll Export Text](Images/pypoll_export_text.png)
+  ![PyPoll Export Text](Images/pypoll_export_text.png)<br>
 [PyPoll analysis.txt](PyPoll/analysis/analysis.txt)
 
 
