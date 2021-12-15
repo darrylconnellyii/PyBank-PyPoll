@@ -35,9 +35,9 @@ In addition, my final script will print the analysis to the terminal and export 
   - - -
 
 ### Correctly read in csv
-[Budget Data](PyBank/Resources/budget_data.csv)
-  ![Read PyBank CSV](Images/pybank_read_csv.png)<br>
-[Election Data](PyPoll/Resources/election_data.csv)
+[Budget Data](PyBank/Resources/budget_data.csv)<br>
+  ![Read PyBank CSV](Images/pybank_read_csv.png)
+[Election Data](PyPoll/Resources/election_data.csv)<br>
   ![Read PyPoll CSV](Images/pypoll_read_csv.png)
 
 ### Results Printed out correctly to terminal
