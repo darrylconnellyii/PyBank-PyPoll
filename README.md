@@ -33,13 +33,14 @@ In addition, my final script will print the analysis to the terminal and export 
 ### Correctly read in csv
 
 ### Results Printed out correctly to terminal
-
+  ![script]
+  ![script]
 ### Code Runs Error Free
-
+  ![script]
+  ![script]
 ### Exports results to text file
-
-### Code is clean and commented
-
+  ![print statements]
+  ![print statements]
   - - -
 
 © Connelito
