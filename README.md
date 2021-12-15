@@ -43,14 +43,16 @@ In addition, my final script will print the analysis to the terminal and export 
   ![PyPoll Print](Images/pypoll_print_statements.png)
 
 ### Code Runs Error Free
-  ![PyBank Script](Images/pybank_script.png)
+[PyBank Code](PyBank/pybank.py)
+  ![PyBank Script](Images/pybank_script.png)<br>
+[PyPoll Code](PyPoll/pypoll.py)
   ![PyPoll Script](Images/pypoll_script.png)
 
 ### Exports results to text file
 [PyBank analysis.txt](PyBank/analysis/analysis.txt)
   ![PyBank Export Text](Images/pybank_export_text.png)<br>
 [PyPoll analysis.txt](PyPoll/analysis/analysis.txt)
-  ![PyPoll Export Text](Images/pypoll_export_text.png)<br>
+  ![PyPoll Export Text](Images/pypoll_export_text.png)
 
 
 
