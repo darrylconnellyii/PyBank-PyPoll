@@ -35,6 +35,8 @@ In addition, my final script will print the analysis to the terminal and export 
   - - -
 
 ### Correctly read in csv
+  ![Read PyBank CSV](Images/pybank_read_csv.png)
+  ![Read PyPoll CSV](Images/pypoll_read_csv.png)
 
 ### Results Printed out correctly to terminal
   ![PyBank Print](Images/pybank_print_statements.png)
@@ -45,8 +47,8 @@ In addition, my final script will print the analysis to the terminal and export 
   ![PyPoll Script](Images/pypoll_script.png)
 
 ### Exports results to text file
-  ![print statements]
-  ![print statements]
+  ![PyBank Export Text](Images/pybank_export_text.png)
+  ![PyPoll Export Text](Images/pypoll_export_text.png
 
   - - -
 
