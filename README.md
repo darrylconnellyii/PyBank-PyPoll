@@ -37,14 +37,17 @@ In addition, my final script will print the analysis to the terminal and export 
 ### Correctly read in csv
 
 ### Results Printed out correctly to terminal
-  ![script]
-  ![script]
+  ![PyBank Print](Images/pybank_print_statements.png)
+  ![PyPoll Print](Images/pypoll_print_statements.png)
+
 ### Code Runs Error Free
-  ![script]
-  ![script]
+  ![PyBank Script](Images/pybank_script.png)
+  ![PyPoll Script](Images/pypoll_script.png)
+
 ### Exports results to text file
   ![print statements]
   ![print statements]
+
   - - -
 
 © Connelito

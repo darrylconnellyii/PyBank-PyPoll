@@ -27,7 +27,7 @@ with open(budget_csv) as csvfile:
         # Calculate total_profit
         total_profit = total_profit + int(row[1])
 
-    # Iterate through profit_loss to get monthly chnage in profits
+    # Iterate through profit_loss to get monthly change in profits
     for i in range(1, len(profit_loss)):
         # Take the difference between two months and append to monthly_change
         monthly_change.append(int(profit_loss[i]) - int(profit_loss[i-1]))
