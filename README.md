@@ -36,7 +36,7 @@ In addition, my final script will print the analysis to the terminal and export 
 
 ### Correctly read in csv
 [Budget Data](PyBank/Resources/budget_data.csv)<br>
-  ![Read PyBank CSV](Images/pybank_read_csv.png)<br>
+  ![Read PyBank CSV](Images/pybank_read_csv.png)<br><br>
 [Election Data](PyPoll/Resources/election_data.csv)<br>
   ![Read PyPoll CSV](Images/pypoll_read_csv.png)
 
@@ -48,13 +48,13 @@ In addition, my final script will print the analysis to the terminal and export 
 
 ### Code Runs Error Free
 [PyBank Code](PyBank/pybank.py)<br>
-  ![PyBank Script](Images/pybank_script.png)<br>
+  ![PyBank Script](Images/pybank_script.png)<br><br>
 [PyPoll Code](PyPoll/pypoll.py)<br>
   ![PyPoll Script](Images/pypoll_script.png)
 
 ### Exports results to text file
 [PyBank analysis.txt](PyBank/analysis/analysis.txt)<br>
-  ![PyBank Export Text](Images/pybank_export_text.png)<br>
+  ![PyBank Export Text](Images/pybank_export_text.png)<br><br>
 [PyPoll analysis.txt](PyPoll/analysis/analysis.txt)<br>
   ![PyPoll Export Text](Images/pypoll_export_text.png)
 
