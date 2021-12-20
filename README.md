@@ -62,6 +62,14 @@ In addition, my final script will print the analysis to the terminal and export 
 [PyPoll analysis.txt](PyPoll/analysis/analysis.txt)<br>
   ![PyPoll Export Text](Images/pypoll_export_text.png)
 
-  - - -
+  - - - 
 
-© Connelito
+## References
+
+Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
+
+- - -
+
+Contact Information:
+* [LinkedIn](https://www.linkedin.com/in/connelito)
+* Darryl.Connelly.II@gmail.com
