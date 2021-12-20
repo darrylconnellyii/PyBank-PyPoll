@@ -1,6 +1,4 @@
-# Py Me Up, Charlie
-
-### PyBank
+## Background: PyBank
 
   ![Revenue](Images/revenue-per-lead.png)
 
@@ -17,7 +15,7 @@ In addition, my final script will print the analysis to the terminal and export 
 
   - - -
 
-### PyPoll
+## Background: PyPoll
 
   ![Vote Counting](Images/Vote_counting.png)
 
