@@ -71,5 +71,5 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
 - - -
 
 Contact Information:
-* [LinkedIn](https://www.linkedin.com/in/connelito)
+* [LinkedIn](https://www.linkedin.com/in/DConnellyII)
 * Darryl.Connelly.II@gmail.com
